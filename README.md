@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Apache Airflow, dbt, Snowflake, Databricks, Python, SQL<br> :bar_chart: BI Tools - Tableau, Looker, Metabase<br>Currently in Canada<br>⚡ Fun fact - I do voice acting and love writing blogs on Medium<br>:microphone: https://www.youtube.com/watch?v=LW0vfM74Q8g
+🔭 I’m currently working on Apache Airflow, dbt, Snowflake, Databricks, Python, SQL<br> :bar_chart: BI Tools - Tableau, Looker, Metabase<br>Currently in Canada :canada: <br>⚡ Fun fact - I do voice acting and love writing blogs on Medium<br>:microphone: https://www.youtube.com/watch?v=LW0vfM74Q8g
 
 
 ## 🌐 Socials:
